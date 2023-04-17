@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', Courier, monospace !important;
+
+}
+
+input:read-only {
+    background-color: #D3D3D3;
+}
+  .active {
+      border-bottom: solid 2px whitesmoke;
+  }
+
+  .nav-link:hover {
+      background-color: grey;
+  }
+  
